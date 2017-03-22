@@ -16,4 +16,4 @@ This is a repository which store some source code from book I have read. Many of
 
 * [Android开发艺术探索](https://book.douban.com/subject/26599538/) - **android-art-res**
 
-* [Professional Android 4 Application Development](https://book.douban.com/subject/6915691/) -**ProfessionalAndroid4ApplicationDevelopment**
+* [Professional Android 4 Application Development](https://book.douban.com/subject/6915691/) - **ProfessionalAndroid4ApplicationDevelopment** directory
