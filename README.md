@@ -17,3 +17,7 @@ This is a repository which store some source code from book I have read. Many of
 * [Android开发艺术探索](https://book.douban.com/subject/26599538/) - **android-art-res**
 
 * [Professional Android 4 Application Development](https://book.douban.com/subject/6915691/) - **ProfessionalAndroid4ApplicationDevelopment** directory
+
+* [第一行代码](https://book.douban.com/subject/25942191/) - **android_first_line_code** directory
+
+* [疯狂Android讲义](https://book.douban.com/subject/6515839/) - **android_crazy_lessons** directory
