@@ -6,6 +6,8 @@ This is a repository which store some source code from book I have read. Many of
 
 * [C++ Programming Language](https://book.douban.com/subject/7053134/) - **CppPL** directory
 
+* [Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://book.douban.com/subject/1453373/) - **effective-cpp** directory
+
 * [Advanced Programming in the UNIX(R) Environment](https://book.douban.com/subject/1439495/) - **apue3e** directory
 
 * [Unix Network Programming](https://book.douban.com/subject/1756533/) - **unpv13e** directory
