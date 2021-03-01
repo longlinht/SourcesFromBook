@@ -1,0 +1,3 @@
+[submodule "Kotlin-for-Android-Developers"]
+	path = Kotlin-for-Android-Developers
+	url = https://github.com/antoniolg/Kotlin-for-Android-Developers.git
