@@ -23,3 +23,5 @@ This is a repository which store some source code from book I have read. Many of
 * [第一行代码](https://book.douban.com/subject/25942191/) - **android_first_line_code** directory
 
 * [疯狂Android讲义](https://book.douban.com/subject/6515839/) - **android_crazy_lessons** directory
+
+* [Kotlin for Android Developers](https://book.douban.com/subject/26916501/) - **Kotlin-for-Android-Developers** directory
